@@ -7,3 +7,5 @@ The script is published on GreasyFork at: https://openuserjs.org
 
 - Install TamperMonkey or GreaseMonkey extension for your browser
 - Visit https://openuserjs.org and hit the Install button
+
+# Test
