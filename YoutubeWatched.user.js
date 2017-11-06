@@ -5,7 +5,7 @@
 // @namespace    https://github.com/highstrike/youtube-watched
 // @version      4.1
 // @author       Highstrike
-// @license      GPL; http://www.gnu.org/licenses/gpl.html
+// @license      GPL-3.0+; http://www.gnu.org/licenses/gpl.html
 // @require      https://code.jquery.com/jquery-2.2.4.min.js
 // @match        *://www.youtube.com/*
 // @grant        none
