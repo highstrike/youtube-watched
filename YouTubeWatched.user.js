@@ -2,7 +2,7 @@
 
 // ==UserScript==
 // @name         YouTube Watched
-// @description  Mark unwatched youtube videos that have a watch progress bar as watched
+// @description  Marks unwatched youtube videos that have a watch progress bar as watched.
 // @icon         https://raw.githubusercontent.com/highstrike/youtube-watched/master/icon.png
 // @namespace    https://github.com/highstrike/youtube-watched
 // @version      5.0
