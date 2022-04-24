@@ -5,7 +5,7 @@
 // @description  Marks unwatched youtube videos that have a watch progress bar as watched.
 // @icon         https://raw.githubusercontent.com/highstrike/youtube-watched/master/icon.png
 // @namespace    https://github.com/highstrike/youtube-watched
-// @version      1.1
+// @version      1.2
 // @author       highstrike
 // @license      GPL-3.0-or-later; http://www.gnu.org/licenses/gpl-3.0.txt
 // @require      https://code.jquery.com/jquery-2.2.4.min.js
