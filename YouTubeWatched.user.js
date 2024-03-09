@@ -1,17 +1,21 @@
-/* globals jQuery */
-
 // ==UserScript==
 // @name         YouTube Watched
+// @namespace    https://github.com/highstrike
+// @homepageURL  https://github.com/highstrike/youtube-watched
 // @description  Marks unwatched youtube videos that have a watch progress bar as watched.
 // @icon         https://raw.githubusercontent.com/highstrike/youtube-watched/master/icon.png
-// @namespace    https://github.com/highstrike/youtube-watched
-// @version      2.0
 // @author       highstrike
-// @license      GPL-3.0-or-later; http://www.gnu.org/licenses/gpl-3.0.txt
-// @require      https://code.jquery.com/jquery-2.2.4.min.js
 // @match        *://www.youtube.com/*
+// @require      https://code.jquery.com/jquery-2.2.4.min.js
 // @grant        none
+// @version      2.0.1
+// @copyright    2022, highstrike (https://openuserjs.org/users/highstrike)
+// @license      GPL-3.0-or-later; http://www.gnu.org/licenses/gpl-3.0.txt
+// @updateURL    https://openuserjs.org/meta/highstrike/YouTube_Watched.meta.js
+// @downloadURL  https://openuserjs.org/install/highstrike/YouTube_Watched.user.js
 // ==/UserScript==
+
+/* globals $, jQuery */
 
 (function($) { 'use strict';
     window.setInterval(function() {
