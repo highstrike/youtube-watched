@@ -1,18 +1,22 @@
 # YouTube Watched
 
-A lightweight, highly optimized userscript that adds a clear visual overlay to YouTube thumbnails you've already watched.
+A lightweight, highly optimized userscript that adds a clear visual overlay to YouTube thumbnails you've already watched.   
 
 ![Screenshot showing a YouTube thumbnail with a blue overlay and WATCHED badge](screenshot.png)
 
-The script is published on OpenUserJS at: https://openuserjs.org/scripts/highstrike/YouTube_Watched.
+## ✨ Key Features
+* **Smart Threshold Detection:** Only marks videos as "WATCHED" if you've completed at least **70%** of the video. Say goodbye to accidentally marking videos you only previewed for 5 seconds!
+* **Zero-Lag Performance:** Uses a debounced `MutationObserver` instead of heavy background loops. It idles gracefully and uses virtually zero CPU, even when infinite-scrolling through hundreds of thumbnails.
+* **Modern UI Support:** Fully updated to support YouTube's newest grid layout, with backward compatibility for the legacy UI. 
+* **Seamless Integration:** Features a non-blocking, click-through blue overlay that perfectly matches YouTube's modern rounded-corner aesthetics.
 
-## Installation
+## 📥 Installation
 
 - Install the [Tampermonkey](https://www.tampermonkey.net/) or [Greasemonkey](https://www.greasespot.net/) extension for your browser.
 - **Option 1 (OpenUserJS):** Visit https://openuserjs.org/scripts/highstrike/YouTube_Watched and hit the Install button.
 - **Option 2 (GitHub):** Click [here to install directly from the raw source](https://github.com/highstrike/youtube-watched/raw/refs/heads/master/YouTubeWatched.user.js).
 
-## Changelog
+## 🚀 Changelog
 
 ### v4.0.0 (2026-02-16)
 **Added**
