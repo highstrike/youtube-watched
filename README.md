@@ -1,5 +1,5 @@
 # YouTube Watched
-Userscript that marks unwatched youtube videos that have a watch progress bar as watched.
+Userscript that marks unwatched youtube videos that have a watch progress bar as watched (70%+ threshold).
 
 The script is published on OpenUserJS at: https://openuserjs.org/scripts/highstrike/YouTube_Watched.
 
