@@ -1,6 +1,6 @@
 # YouTube Watched
 
-Userscript that marks unwatched youtube videos that have a watch progress bar as watched (70%+ threshold).
+A lightweight, highly optimized userscript that adds a clear visual overlay to YouTube thumbnails you've already watched.
 
 ![Screenshot showing a YouTube thumbnail with a blue overlay and WATCHED badge](screenshot.png)
 
